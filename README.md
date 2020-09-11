@@ -2,10 +2,12 @@
 
 1. Gradient Descent 
   a. Visualization in 3d : 
-
-<center>
-<img src="https://drive.google.com/file/d/1-7Y_RF-vqmh_619XFJ0JV6qU_O5WALGx" width="500"/>
-
-<p>Fig 7. K Nearest neighbor classification</p>
-</center>
-
+  
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
+     <img 
+      src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
+      </a>
+    </div>
