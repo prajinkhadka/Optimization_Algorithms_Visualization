@@ -1,1 +1,1 @@
-# Optimization_Algorithms_Visualization
+# Optimization Algorithms Visualization
